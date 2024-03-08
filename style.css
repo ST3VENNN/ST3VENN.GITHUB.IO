@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .receta {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .receta h2 {
+    margin-top: 0;
+  }
+  
+  .receta img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+  }
+  
+  .receta .ingredientes {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .receta .ingredientes li {
+    margin-bottom: 5px;
+  }
+  
+  .receta .instrucciones {
+    margin-top: 10px;
+}
